@@ -7,7 +7,7 @@ createRoot(document.getElementById("root")).render(
   <StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route  path="/" element={<App/>} />
+        <Route path="/slack-clone" element={<App />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>
